@@ -1,0 +1,12 @@
+.bg-t{
+    background-color: #070303;
+}
+.t{
+    color: #070303;
+}
+
+[class*="col-"] {
+    float: left;
+    padding: 10px;
+    border: 1px solid red;
+}
